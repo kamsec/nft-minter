@@ -1,0 +1,6 @@
+notes/
+__pycache__/
+venv/
+.vscode/
+.coverage
+.flake8

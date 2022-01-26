@@ -1,0 +1,20 @@
+2022-01-26 19:22:10 [INFO] ======================= NFT-MINTER =======================
+2022-01-26 19:22:10 [INFO] [Single mode]
+2022-01-26 19:22:10 [INFO] Settings:
+2022-01-26 19:22:10 [INFO] - CHAIN_NAME: Mumbai
+2022-01-26 19:22:10 [INFO] - CONTRACT_ADDRESS: 0x7a091d1F67F49d6f30E6e40b47eA1E303174ebE9
+2022-01-26 19:22:10 [INFO] - MINT_FUNCTION_NAME: mint
+2022-01-26 19:22:10 [INFO] - MINT_PRICE: 0.1
+2022-01-26 19:22:10 [INFO] - NUMBER_OF_MINTS: 6
+2022-01-26 19:22:10 [INFO] - LOGGING: True
+2022-01-26 19:22:10 [INFO] Using master_account 0x54F3c6805c09154739257882b44469f1Dff8a3C9 | balance: 1.49385801
+2022-01-26 19:22:10 [INFO] Estimated required balance: 0.602484168
+2022-01-26 19:22:10 [INFO] Estimated total transaction fees, not including mint prices: 0.002484168
+2022-01-26 19:22:10 [INFO] Running...
+2022-01-26 19:22:11 [INFO] Calling contract function "mint()" from address (0) 0x54F3... in tx 0x3a96a1cebd6d0395213229bae7d8c19eac558b4d92c988b8d3ca4ea0dd864ff2
+2022-01-26 19:22:11 [INFO] Calling contract function "mint()" from address (0) 0x54F3... in tx 0xed2abac85a7768296faccbe52ea92994ee1a292c5a4887313e31ecc8c3d79cbc
+2022-01-26 19:22:11 [INFO] Calling contract function "mint()" from address (0) 0x54F3... in tx 0x575f09b3f104a22f379bb3e768bd642f371247773f87dd64e84d5dcc371cfcb6
+2022-01-26 19:22:11 [INFO] Calling contract function "mint()" from address (0) 0x54F3... in tx 0xb98d132e87061dcc443b9357a864966af6d087b9eb3804f078edaabb1cc14d18
+2022-01-26 19:22:12 [INFO] Calling contract function "mint()" from address (0) 0x54F3... in tx 0x2f62789889211bf2219975cdcbbe5899bff1e34b5d8b1a0fbfbc3ce2176883f1
+2022-01-26 19:22:12 [INFO] Calling contract function "mint()" from address (0) 0x54F3... in tx 0x48336307049caf74aa0fa434e848169a1bc26e8c9bd15fad9b4d612f80c34af7
+2022-01-26 19:22:16 [INFO] Address (0): 0x54F3c6805c09154739257882b44469f1Dff8a3C9  |  Balance: 1.4926075999887463

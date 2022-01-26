@@ -1,0 +1,10 @@
+{
+    "CHAIN_NAME": "Mumbai",
+    "CONTRACT_ADDRESS": "0x7a091d1F67F49d6f30E6e40b47eA1E303174ebE9",
+    "MINT_FUNCTION_NAME": "mint",
+    "NUMBER_OF_MINTS": 5,
+    "MINT_PRICE": 0.1,
+    "EXTRA_MIXING_LAYERS": 0,
+    "SEND_BACK": true,
+    "LOGGING": true
+}
