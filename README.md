@@ -1,6 +1,7 @@
 # NFT-minter
 
-This project allows you to mint NFTs in a batch from single or multiple addresses.
+This project allows you to mint NFTs of deployed smart contracts in a batch from single or multiple addresses.
+It supports Ethereum and Polygon, including test networks.
 
 ### Table of contents:
 1. <a href="#1-requirements">Requirements</a>
